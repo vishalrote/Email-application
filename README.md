@@ -20,12 +20,6 @@ SMTP mechanism of communication
 5. Alice’s mail server places the message in Alice’s mailbox.
 6. Alice invokes her UA to read the message.
 
-Screenshots:
+Screenshot:
 
-![image](https://user-images.githubusercontent.com/96374713/231174757-dd3e5b0f-e7ab-4053-997c-3fb42f5b641e.png)
-
-![image](https://user-images.githubusercontent.com/96374713/231174838-1a5b28d6-c24e-47a3-a479-af7400ef57aa.png)
-
-![image](https://user-images.githubusercontent.com/96374713/231174905-df56a145-0c50-4c9e-9712-d48e6012657e.png)
-
-![image](https://user-images.githubusercontent.com/96374713/231174972-cfc510d8-af6c-41b1-8845-e2e18d6d2a38.png)
+![image](https://user-images.githubusercontent.com/96374713/231190947-993bc018-84ee-4670-a003-be5912b6d481.png)
